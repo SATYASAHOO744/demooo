@@ -1,2 +1,9 @@
 trying @ learning
 fro sachin sir
+
+
+Tyes of branches:
+base branch
+feature branch
+integration branch
+environment branch
