@@ -1,2 +1,8 @@
 trying @ learning
 fro sachin sir
+
+Types of enironment branch:
+development
+testing
+beta
+production
